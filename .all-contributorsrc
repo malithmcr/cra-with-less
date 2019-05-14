@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "tracker1",
+      "name": "Michael J. Ryan",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/444316?v=4",
+      "profile": "http://tracker1.info/",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "cra-with-less",
+  "projectOwner": "malithmcr",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
